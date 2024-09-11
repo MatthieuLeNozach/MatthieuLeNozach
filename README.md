@@ -69,10 +69,13 @@ I'm a switching carrer data enthusiast, passionate about deploying predictive mo
 
 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MatthieuLeNozach&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MatthieuLeNozach&theme=dark&hide_border=true)<br/>
+## 📊 GitHub Stats:  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthieuLeNozach)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![](https://github-readme-stats.vercel.app/api?username=MatthieuLeNozach&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MatthieuLeNozach&theme=dark&hide_border=true)<br/>
+
 
