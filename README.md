@@ -18,26 +18,26 @@ I'm a switching carrer data enthusiast, passionate about deploying predictive mo
 ---
 ## 👥 Contributions
 
-##### - ✅ [A bird sound classifier MVP deployment for an ornithology website](https://github.com/ValBaron10/BirdSoundClassif)
+#### - ✅ [A bird sound classifier MVP deployment for an ornithology website](https://github.com/ValBaron10/BirdSoundClassif)
 
 ## 🏗️ Projects
 
-#### ML Ops
+### ML Ops
 
-##### - ✅ [A FastAPI app template to serve machine learning models asynchronously, with built-in user management, service access policies, etc.](https://github.com/MatthieuLeNozach/api_basemodel_for_machine_learning_with_fastapi)
+#### - ✅ [A FastAPI app template to serve machine learning models asynchronously, with built-in user management, service access policies, etc.](https://github.com/MatthieuLeNozach/api_basemodel_for_machine_learning_with_fastapi)
 
 
 
-#### Velib Project
+### Velib Project
 
-##### - 🚧 [An Airflow orchestrated end to end project: Vélib API >> ELT >> dashboards & ML training](https://github.com/MatthieuLeNozach/velib_airflow_orchestration_elt_ml)
+#### - 🚧 [An Airflow orchestrated end to end project: Vélib API >> ELT >> dashboards & ML training](https://github.com/MatthieuLeNozach/velib_airflow_orchestration_elt_ml)
 
 #### Miscellanous
 
-##### - ✅ [An HTML résumé editor with TailwindCSS styling](https://github.com/MatthieuLeNozach/tailwindcss_resume/tree/main)
+#### - ✅ [An HTML résumé editor with TailwindCSS styling](https://github.com/MatthieuLeNozach/tailwindcss_resume/tree/main)
 
 
-#### Older projects
+### Older projects
 - 🕸️ [Accelerate the experimentation loop, using templated preprocessing pipelines, Optuna hyperparameter tuning and MLFlow experiment tracking](https://github.com/MatthieuLeNozach/mlflow_laboratory/tree/main)
 - 🕸️ [Modelling and serving a classification model trained on imbalanced data](https://github.com/MatthieuLeNozach/insurance_classification_imalanced)
 
@@ -46,7 +46,7 @@ I'm a switching carrer data enthusiast, passionate about deploying predictive mo
 - **Programming languages:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-- **DB / Storage:**
+- **DB / Storage:**  
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS_S3-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MINIO](https://img.shields.io/badge/minIO-%23B22222.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 - **Data Manipulation:**  
@@ -61,10 +61,10 @@ I'm a switching carrer data enthusiast, passionate about deploying predictive mo
 - **MLOps:**   
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
-- **Backend**:
+- **Backend**:  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
 
-- **OS & IDE & Tools :**
+- **OS & IDE & Tools :**  
 [![Linux](http://img.shields.io/badge/-Linux-eee?style=for-the-badge&logo=linux&logoColor=D67A10)](https://dinhanhthi.com/tags/linux/) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)      
 
 
@@ -74,7 +74,5 @@ I'm a switching carrer data enthusiast, passionate about deploying predictive mo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MatthieuLeNozach&theme=dark&hide_border=true)<br/
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthieulenozach)](https://github.com/MatthieuLeNozach/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthieulenozach)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matthieulenozach)](https://github.com/matthieulenozach/github-readme-stats)
