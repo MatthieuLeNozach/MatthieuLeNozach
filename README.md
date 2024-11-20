@@ -5,7 +5,7 @@
 
 
 
-I'm a switching carrer data enthusiast, passionate about deploying predictive models into user-friendly interfaces
+I'm a data enthusiast, passionate about deploying predictive models into user-friendly interfaces
 
 - 🌱 Currently learning *Data Science* and *MLOps* (also enjoying *Web Backend*).
 - 🚀 Looking for opportunities to collaborate on projects where I can contribute to building and deploying  ML/DL models and their user interfaces in real-world applications.
